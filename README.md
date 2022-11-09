@@ -1,4 +1,5 @@
 # teals
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bartolon1/teals/HEAD)
 
 * this is the text under level 1.* This is for the **Introduction to software Technologies.**  class at *towers high school*!links are easy to make*!(https://www.towershs.dekalb.k12.ga.us/)
 [![an image of the towers high school and dekalb county logos]   (https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png)]
